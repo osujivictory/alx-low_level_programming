@@ -1,6 +1,6 @@
 #ifndef LISTS_H
 #define LISTS_H
-typedef struct list_s
+
 /**
  * struct list_s - singly linked list
  * @str: string - (malloc'ed string)
@@ -10,6 +10,7 @@ typedef struct list_s
  * Description: singly linked list node structure
  * for Holberton project
  */
+typedef struct list_s
 {
 	char *str;
 	unsigned int len;
