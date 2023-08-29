@@ -1,5 +1,7 @@
 0x13. C - More singly linked lists
 
+Files to be created: 
+
 0. Print list
 
 1. List length
@@ -29,5 +31,3 @@
 13. Free (safe version)
 
 14. Find the loop
-
-
